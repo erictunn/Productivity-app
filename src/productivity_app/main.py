@@ -4,9 +4,9 @@
 
 import time
 import threading
-from src.productivity_app.infrastructure.events import EventBus
-from src.productivity_app.interface.frontend import FrontEnd
-from src.productivity_app.services.app_service import BackEnd
+from infrastructure.events import EventBus
+from interface.frontend import FrontEnd
+from services.app_service import BackEnd
 
 
 class Main:

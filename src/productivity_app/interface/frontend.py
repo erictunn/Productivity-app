@@ -2,7 +2,7 @@
 
 import tkinter as tk
 from tkinter import messagebox
-from productivity_app.interface.inputs import InputDialog
+from interface.inputs import InputDialog
 from pathlib import Path
 
 
